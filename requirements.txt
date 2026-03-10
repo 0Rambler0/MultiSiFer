@@ -1,0 +1,6 @@
+torchcontrib
+soundfile
+librosa
+s3prl
+peft
+pydub
